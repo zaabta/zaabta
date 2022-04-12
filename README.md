@@ -76,7 +76,7 @@ I'm Ali Almanea </> aFront-End web Developer. I Spend most of time coding outsta
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-</td></tr></table>  
+
 
 <!---
 zaabta/zaabta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
