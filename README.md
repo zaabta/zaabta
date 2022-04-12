@@ -6,7 +6,7 @@ I'm Ali Almanea </> aFront-End web Developer. I Spend most of time coding outsta
 [![Linkedin Badge](https://img.shields.io/badge/-ALİ-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-almanea/)
 [![Mail Badge](https://img.shields.io/badge/-@ali.rashad.ar7-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ali.rashad.ar7/) 
 [![Mail Badge](https://img.shields.io/badge/-alialmaena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ali.rashad23@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)(mailto:https://www.facebook.com/people/Ali-Rashad-Al-Manea/100000840170785/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](mailto:https://www.facebook.com/people/Ali-Rashad-Al-Manea/100000840170785/)
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
 - 👀 I’m interested in learing new web technology
