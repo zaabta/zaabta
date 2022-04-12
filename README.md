@@ -6,7 +6,9 @@ I'm Ali Almanea </> aFront-End web Developer. I Spend most of time coding outsta
 [![Linkedin Badge](https://img.shields.io/badge/-ALİ-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-almanea/)
 [![Mail Badge](https://img.shields.io/badge/-@ali.rashad.ar7-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ali.rashad.ar7/) 
 [![Mail Badge](https://img.shields.io/badge/-alialmaena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ali.rashad23@gmail.com)
-[![Mail Badge](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px)](mailto:ali.rashad23@gmail.com)
+<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
