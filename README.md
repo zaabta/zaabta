@@ -2,9 +2,9 @@
 I'm Ali Almanea </> aFront-End web Developer. I Spend most of time coding outstanding projects in react.js or p5.js.
 
 :mailbox: Reach me out! 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-almanea/)
-[![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ali.rashad.ar7/) 
-[![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ali.rashad23@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ALI ALMANEA-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-almanea/)
+[![Mail Badge](https://img.shields.io/badge/-@ali almaena-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ali.rashad.ar7/) 
+[![Mail Badge](https://img.shields.io/badge/-alialmaena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ali.rashad23@gmail.com)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
