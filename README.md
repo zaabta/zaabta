@@ -15,7 +15,6 @@ I'm Ali Almanea </> aFront-End web Developer. I Spend most of time coding outsta
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...
 - ❓ Ask me about anything related to javascript and related technologies  
-- 📫 How to reach me : ali.rashad23@gmail.com
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 
