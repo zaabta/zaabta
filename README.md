@@ -1,5 +1,5 @@
 ## Hi I'm Ali <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-I'm Ali Almanea </> aFront-End web Developer. I Spend most of time coding outstanding projects in react.js or p5.js.
+I'm Ali Almanea </> full stack Developer. I Spend most of time coding outstanding projects in react.js & node.js.
 
 :mailbox: Reach me out! 
 
@@ -28,8 +28,6 @@ I'm Ali Almanea </> aFront-End web Developer. I Spend most of time coding outsta
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
