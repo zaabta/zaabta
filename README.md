@@ -135,14 +135,7 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
 <div align="left"></div>  
-
 <br/>  
 <br/>  
 
