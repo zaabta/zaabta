@@ -8,19 +8,28 @@
 ### <div align="center">I'm Ali Almanea, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on my apps
   
+- 👀 I’m interested in learing new web technology
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+
+- 🌱 I’m currently learning tRPC  
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I play games and go to the GYM very often.
   
 
 <br/>  
+
+#### Top Technologies
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
 ## My Skill Set  
@@ -159,6 +168,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
