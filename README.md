@@ -140,31 +140,43 @@
 
 
 ## Github Stats  
-![zaabta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaabta&theme=vue-dark&hide_border=true)
-
-<br/>  
-
-<div align="left"></div>  
-<br/>  
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/alirashad2G" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a>
-                <a href="https://liberapay.com/AliAlmanea" target="_blank" style="display: inline-block;">
-                    <img
-                        src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" 
-                        align="center"
-                    />
-                </a>
-            <a href="https://ko-fi.com/alialmanea" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>
+<div
+      style="display: flex; flex-direction: column; justify-content: center;"
+    >
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=zaabta&theme=vue-dark&hide_border=true"
+      />
+      <div style="margin: auto; margin-top: 10px;">
+        <a
+          href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/alirashad2G"
+          target="_blank"
+          style="display: inline-block;"
+        >
+          <img
+            src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
+            align="center"
+          />
+        </a>
+        <a
+          href="https://liberapay.com/AliAlmanea"
+          target="_blank"
+          style="display: inline-block;"
+        >
+          <img
+            src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay"
+            align="center"
+          />
+        </a>
+        <a
+          href="https://ko-fi.com/alialmanea"
+          target="_blank"
+          style="display: inline-block;"
+        >
+          <img
+            src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi"
+            align="center"
+          />
+        </a>
+      </div>
+    </div>
 <br />
