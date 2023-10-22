@@ -140,7 +140,7 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=zaabta&show_icons=true&count_private=true&hide_border=true" align="left" />  
+![zaabta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaabta&theme=vue-dark&hide_border=true)
 
 <br/>  
 
