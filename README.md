@@ -142,6 +142,7 @@
 ## Github Stats  
 <div
       style="display: flex; flex-direction: column; justify-content: center; margin: auto;"
+    align="center"
     >
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=zaabta&theme=vue-dark&hide_border=true"
