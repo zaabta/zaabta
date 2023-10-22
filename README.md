@@ -2,7 +2,7 @@
 
 ### Ali Almanea  
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" align="center" style="width: 450px; height: 250px" />
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" align="center" style="width: 550px; height: 250px" />
 </div>  
 
 ### <div align="left">I'm Ali Almanea, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
