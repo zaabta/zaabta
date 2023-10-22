@@ -1,7 +1,7 @@
 
 
 ### Ali Almanea  
-<div align="center" style="width: 75%; heigh: 200px">
+<div align="center" style="width: 75%; height: 200px">
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" align="center"/>
 </div>  
 
