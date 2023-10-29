@@ -14,7 +14,7 @@
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 
-- 🌱 I’m currently learning tRPC  
+- 🌱 I’m currently learning Django  
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
